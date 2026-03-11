@@ -1,0 +1,33 @@
+# API Layer
+fastapi==0.111.0
+uvicorn==0.30.1
+
+# Data handling
+pandas==2.2.2
+numpy==1.26.4
+
+# NLP Core
+nltk==3.8.1
+spacy==3.7.4
+
+# ML / Topic Extraction
+scikit-learn==1.5.0
+
+# TextRank (graph-based summarization)
+networkx==3.3
+
+# Sentence-BERT (transformer embeddings)
+sentence-transformers==3.0.0
+
+# Visualization
+matplotlib==3.9.0
+plotly==5.22.0
+wordcloud==1.9.3
+
+# Notebook exploration
+jupyter==1.0.0
+
+# Utilities
+python-multipart==0.0.9
+pydantic==2.7.3
+tqdm==4.66.4

@@ -1,0 +1,19 @@
+Header: deep dive 2 summary for cross-regional key vault replication issue
+
+Body:
+
+Hi all,
+
+Thank you for participating in the deep dive 2 meeting just now. As discussed, the cyber team have flagged out that our CSP have been replicating our key vault certs, access & secret key to region outside of our country, which does not fit our regulatory compliance.
+
+The CSP team have highlighted during our first deep dive that due to the nature of the product, we are unable to remove the cross-regional replication. The CSP team have successfully demo-ed the workaround which is to recreate and map the old key vault to a new localised key vault using the command during deep dive 2 and addressed the concerns from App vendor team regarding key vault changes.
+
+For the next meeting, here are the agreed task from respective team members:
+
+Alex (Solutions team): Formulate the key vault migration strategy and get upper management approval
+Peter (CSP team): Refine the console command into a script to handled exceptions
+Amy (Infra team): Scope out the key vault integration on infra level into an excel sheet for review
+John (App vendor team): Scope out the key vault integration on application level into an excel sheet for review
+We shall decide on the date of migration once the above task have been completed during the next deep dive.
+
+Thank you everyone!

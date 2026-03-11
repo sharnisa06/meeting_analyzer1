@@ -1,0 +1,37 @@
+{
+  "attendee1": {
+    "name": "Mark",
+    "title": "Meeting Chairman",
+    "email": "mark@abc.com"
+  },
+  "attendee2": {
+    "name": "Jack Peterson",
+    "title": "Southwest Area Sales Vice President",
+    "email": "jack.peterson@abc.com"
+  },
+  "attendee3": {
+    "name": "Alice Linnes",
+    "title": "Sales Strategy Analyst",
+    "email": "alice.linnes@abc.com"
+  },
+  "attendee4": {
+    "name": "Tom Robbins",
+    "title": "Data Integration Specialist",
+    "email": "tom.robbins@abc.com"
+  },
+  "attendee5": {
+    "name": "Donald Peters",
+    "title": "Sales Operations Manager",
+    "email": "donald.peters@abc.com"
+  },
+  "attendee6": {
+    "name": "Jennifer Miles",
+    "title": "Customer Relations Manager",
+    "email": "jennifer.miles@abc.com"
+  },
+  "attendee7": {
+    "name": "Jamie",
+    "title": "Rural Customer Representative",
+    "email": "jamie@ruralcustomers.com"
+  }
+}
